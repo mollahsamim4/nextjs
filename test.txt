@@ -1,2 +1,0 @@
-i am writting something here for learning of git & github that's it.
-also i am adding some new line in this text from github web version.
